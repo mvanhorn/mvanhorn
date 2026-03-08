@@ -8,6 +8,13 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 
 - **[last30days](https://github.com/mvanhorn/last30days-skill)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web.
 
+#### Contributing to
+
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - iMessage delivery, Codex sandbox detection, voice calls, browser infra
+- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
+- **[Entire CLI](https://github.com/entireio/cli)** - Agent transcript scanning, hook manager detection
+- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes
+
 #### OpenClaw Skills
 
 - **[Search X](https://github.com/mvanhorn/clawdbot-skill-search-x)** - Real-time X/Twitter search powered by Grok
@@ -16,10 +23,3 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Manus](https://github.com/mvanhorn/clawdbot-skill-manus)** - Create autonomous AI tasks via Manus API
 - **[Tesla](https://github.com/mvanhorn/clawdbot-skill-tesla)** - Control your Tesla vehicles
 - **[xAI](https://github.com/mvanhorn/clawdbot-skill-xai)** - Chat with Grok models via xAI API
-
-#### Contributing to
-
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - iMessage delivery, Codex sandbox detection, voice calls, browser infra
-- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
-- **[Entire CLI](https://github.com/entireio/cli)** - Agent transcript scanning, hook manager detection
-- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes
