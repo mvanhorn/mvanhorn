@@ -6,7 +6,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 
 #### Building
 
-- **[last30days](https://github.com/mvanhorn/last30days-skill)** - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web. Used by 3.8k+ developers.
+- **[last30days](https://github.com/mvanhorn/last30days-skill)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web.
 
 #### OpenClaw Skills
 
