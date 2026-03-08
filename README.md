@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hey, I'm Matt
 
-<!--
-**mvanhorn/mvanhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![X @mvanhorn](https://img.shields.io/badge/X-@mvanhorn-000?style=flat&logo=x)](https://x.com/mvanhorn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mattvanhorn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mattvanhorn)
 
-Here are some ideas to get you started:
+Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber) and the company that became [Lyft](https://lyft.com). Building again, more soon. Vibe coding the [last30days](https://github.com/mvanhorn/last30days-skill) research tool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Building
+
+- **[last30days](https://github.com/mvanhorn/last30days-skill)** - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web. Used by 3.8k+ developers.
+
+#### OpenClaw Skills
+
+- **[Search X](https://github.com/mvanhorn/clawdbot-skill-search-x)** - Real-time X/Twitter search powered by Grok
+- **[Polymarket](https://github.com/mvanhorn/clawdbot-skill-polymarket)** - Query and trade on prediction markets
+- **[Parallel](https://github.com/mvanhorn/clawdbot-skill-parallel)** - High-accuracy web search via Parallel.ai
+- **[Manus](https://github.com/mvanhorn/clawdbot-skill-manus)** - Create autonomous AI tasks via Manus API
+- **[Tesla](https://github.com/mvanhorn/clawdbot-skill-tesla)** - Control your Tesla vehicles
+- **[xAI](https://github.com/mvanhorn/clawdbot-skill-xai)** - Chat with Grok models via xAI API
+
+#### Contributing to
+
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - iMessage delivery, Codex sandbox detection, voice calls, browser infra
+- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
+- **[Entire CLI](https://github.com/entireio/cli)** - Agent transcript scanning, hook manager detection
+- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes
