@@ -10,10 +10,11 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 
 #### Contributing to
 
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - iMessage delivery, Codex sandbox detection, voice calls, browser infra
+- **[CPython](https://github.com/python/cpython)** - Fixed [`defaultdict` repr](https://github.com/python/cpython/pull/145659) to show subclass name correctly
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - Browser relay, iMessage delivery, Codex sandbox detection, voice calls ([12 PRs merged](https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3Amvanhorn+is%3Amerged))
+- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes, company management ([9 PRs merged](https://github.com/paperclipai/paperclip/pulls?q=is%3Apr+author%3Amvanhorn+is%3Amerged))
 - **[Entire CLI](https://github.com/entireio/cli)** - Agent transcript scanning, hook manager detection
-- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes
-- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
+- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling ([14 PRs merged](https://github.com/danshapiro/kilroy/pulls?q=is%3Apr+author%3Amvanhorn+is%3Amerged))
 
 #### OpenClaw Skills
 
