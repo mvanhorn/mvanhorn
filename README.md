@@ -11,10 +11,10 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 #### Contributing to
 
 - **[Python](https://github.com/python/cpython)** - defaultdict repr to show subclass name correctly
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - Browser relay, iMessage delivery, Codex sandbox detection, voice calls (12 PRs merged)
-- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes, company management (9 PRs merged)
+- **[OpenClaw](https://github.com/openclaw/openclaw)** - Browser relay, iMessage delivery, Codex sandbox detection, voice calls
+- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes, company management
 - **[Entire CLI](https://github.com/entireio/cli)** - Agent transcript scanning, hook manager detection
-- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling (14 PRs merged)
+- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
 
 #### OpenClaw Skills
 
