@@ -10,11 +10,12 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 
 #### Contributing to
 
-- **[Python](https://github.com/python/cpython)** - defaultdict repr to show subclass name correctly
-- **[OpenClaw](https://github.com/openclaw/openclaw)** - Browser relay, iMessage delivery, Codex sandbox detection, voice calls
-- **[Paperclip](https://github.com/paperclipai/paperclip)** - Webhooks, database cascade fixes, company management
-- **[Entire CLI](https://github.com/entireio/cli)** - Agent transcript scanning, hook manager detection
-- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
+- **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Browser relay, rate limit UX, iMessage delivery, Codex sandbox detection, voice calls
+- **[Python](https://github.com/python/cpython)** [![GitHub stars](https://img.shields.io/github/stars/python/cpython?style=flat&color=gold)](https://github.com/python/cpython) - Fix defaultdict __repr__ infinite recursion
+- **[Paperclip](https://github.com/paperclipai/paperclip)** [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold)](https://github.com/paperclipai/paperclip) - SPA routing, database cascade fixes, agent wake-on-status
+- **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) - Plan gating, serial review mode, hook safety, config merging
+- **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind paths, mise version detection, agent transcript scanning
+- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling (14 merged)
 
 #### OpenClaw Skills
 
