@@ -18,7 +18,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Accomplish](https://github.com/accomplish-ai/accomplish)** [![GitHub stars](https://img.shields.io/github/stars/accomplish-ai/accomplish?style=flat&color=gold)](https://github.com/accomplish-ai/accomplish) - Russian language support
 - **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) - Plan gating, serial review mode, hook safety, config merging (10 merged)
 - **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind paths, mise version detection, agent transcript scanning
-- **[Superpowers](https://github.com/obra/superpowers)** - TodoWrite mapping fix, session-start dedup
+- **[Superpowers](https://github.com/obra/superpowers)** [![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=flat&color=gold)](https://github.com/obra/superpowers) - TodoWrite mapping, session-start dedup
 - **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling (14 merged)
 
 #### OpenClaw Skills
