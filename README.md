@@ -16,10 +16,10 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Browser relay, rate limit UX, iMessage delivery, Codex sandbox detection, voice calls
 - **[Paperclip](https://github.com/paperclipai/paperclip)** [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold)](https://github.com/paperclipai/paperclip) - SPA routing, database cascade fixes, agent wake-on-status
 - **[Accomplish](https://github.com/accomplish-ai/accomplish)** [![GitHub stars](https://img.shields.io/github/stars/accomplish-ai/accomplish?style=flat&color=gold)](https://github.com/accomplish-ai/accomplish) - Russian language support
-- **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) - Plan gating, serial review mode, hook safety, config merging (10 merged)
+- **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) - Plan gating, serial review mode, hook safety, config merging
 - **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind paths, mise version detection, agent transcript scanning
 - **[Superpowers](https://github.com/obra/superpowers)** [![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=flat&color=gold)](https://github.com/obra/superpowers) - TodoWrite mapping, session-start dedup
-- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling (14 merged)
+- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
 
 #### OpenClaw Skills
 
