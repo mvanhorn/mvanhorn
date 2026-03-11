@@ -12,7 +12,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 
 - **[Python](https://github.com/python/cpython)** [![GitHub stars](https://img.shields.io/github/stars/python/cpython?style=flat&color=gold)](https://github.com/python/cpython) - Defaultdict __repr__ infinite recursion
 - **[OpenCV](https://github.com/opencv/opencv)** [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=flat&color=gold)](https://github.com/opencv/opencv) - HoughCircles Python return type
-- **[SGLang](https://github.com/sgl-project/sglang)** [![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat&color=gold)](https://github.com/sgl-project/sglang) - DSA/NSA attention backend documentation
+- **[SGLang](https://github.com/sgl-project/sglang)** [![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat&color=gold)](https://github.com/sgl-project/sglang) - DSA/NSA attention backend
 - **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Browser relay, rate limit UX, iMessage delivery, Codex sandbox detection, voice calls
 - **[Paperclip](https://github.com/paperclipai/paperclip)** [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold)](https://github.com/paperclipai/paperclip) - SPA routing, database cascade fixes, agent wake-on-status
 - **[Accomplish](https://github.com/accomplish-ai/accomplish)** [![GitHub stars](https://img.shields.io/github/stars/accomplish-ai/accomplish?style=flat&color=gold)](https://github.com/accomplish-ai/accomplish) - Russian language support
