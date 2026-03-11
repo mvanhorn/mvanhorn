@@ -20,6 +20,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind paths, mise version detection, agent transcript scanning
 - **[Superpowers](https://github.com/obra/superpowers)** [![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=flat&color=gold)](https://github.com/obra/superpowers) - TodoWrite mapping, session-start dedup
 - **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
+- **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=flat&color=gold)](https://github.com/continuedev/continue) - CLI install script portability
 
 #### OpenClaw Skills
 
