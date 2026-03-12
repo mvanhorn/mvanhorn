@@ -4,6 +4,8 @@
 
 Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber) and the company that became [Lyft](https://lyft.com). Building again, more soon. Vibe coding the [last30days](https://github.com/mvanhorn/last30days-skill) research tool.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mvanhorn&show_icons=true&theme=default&hide_border=true&count_private=true)
+
 #### Building
 
 - **[last30days](https://github.com/mvanhorn/last30days-skill)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat&color=gold)](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web.
