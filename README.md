@@ -10,17 +10,17 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 
 #### Contributing to
 
-- **[Python](https://github.com/python/cpython)** [![GitHub stars](https://img.shields.io/github/stars/python/cpython?style=flat&color=gold)](https://github.com/python/cpython) - Defaultdict __repr__ infinite recursion
-- **[OpenCV](https://github.com/opencv/opencv)** [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=flat&color=gold)](https://github.com/opencv/opencv) - HoughCircles Python return type
-- **[SGLang](https://github.com/sgl-project/sglang)** [![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat&color=gold)](https://github.com/sgl-project/sglang) - DSA/NSA attention backend
+- **[Python](https://github.com/python/cpython)** [![GitHub stars](https://img.shields.io/github/stars/python/cpython?style=flat&color=gold)](https://github.com/python/cpython) - Defaultdict __repr__ infinite recursion fix
+- **[OpenCV](https://github.com/opencv/opencv)** [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=flat&color=gold)](https://github.com/opencv/opencv) - HoughCircles Python return type fix
+- **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat&color=gold)](https://github.com/langchain-ai/langchain) - PIL image fd leak in OpenAI token counting
 - **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Browser relay, rate limit UX, iMessage delivery, Codex sandbox detection, voice calls
-- **[Paperclip](https://github.com/paperclipai/paperclip)** [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold)](https://github.com/paperclipai/paperclip) - SPA routing, database cascade fixes, agent wake-on-status
+- **[Paperclip](https://github.com/paperclipai/paperclip)** [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold)](https://github.com/paperclipai/paperclip) - SPA routing, FK cascade fixes, agent wake-on-status, CLI restart hints
+- **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) - Plan gating, serial review mode, hook safety, config merging, skills migration
 - **[Accomplish](https://github.com/accomplish-ai/accomplish)** [![GitHub stars](https://img.shields.io/github/stars/accomplish-ai/accomplish?style=flat&color=gold)](https://github.com/accomplish-ai/accomplish) - Russian language support
-- **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) - Plan gating, serial review mode, hook safety, config merging
-- **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind paths, mise version detection, agent transcript scanning
-- **[Superpowers](https://github.com/obra/superpowers)** [![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=flat&color=gold)](https://github.com/obra/superpowers) - TodoWrite mapping, session-start dedup
-- **[Kilroy](https://github.com/danshapiro/kilroy)** - Engine reliability, prompt loading, CLI tooling
-- **[Continue](https://github.com/continuedev/continue)** [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=flat&color=gold)](https://github.com/continuedev/continue) - CLI install script portability
+- **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind path resolution, mise version detection
+- **[Parallel](https://github.com/parallel-web/parallel-web-tools)** - Shell completion for bash, zsh, and fish
+- **[Kilroy](https://github.com/danshapiro/kilroy)** - Circuit breaker, prompt loading, heartbeat events, CLI tooling
+- **[CascadeFlow](https://github.com/lemony-ai/cascadeflow)** - Trace export and offline cascade simulation
 
 #### OpenClaw Skills
 
