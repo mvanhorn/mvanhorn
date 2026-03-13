@@ -11,7 +11,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 #### Contributing to
 
 - **[Python](https://github.com/python/cpython)** [![GitHub stars](https://img.shields.io/github/stars/python/cpython?style=flat&color=gold)](https://github.com/python/cpython) - Defaultdict __repr__ infinite recursion
-- **[OpenCV](https://github.com/opencv/opencv)** [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=flat&color=gold)](https://github.com/opencv/opencv) - HoughCircles Python return type
+- **[OpenCV](https://github.com/opencv/opencv)** [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=flat&color=gold)](https://github.com/opencv/opencv) - HoughCircles Python return type, YAML parser heap-overflow
 - **[Hugging Face Transformers](https://github.com/huggingface/transformers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=flat&color=gold)](https://github.com/huggingface/transformers) - QA pipeline decode_spans off-by-one
 - **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat&color=gold)](https://github.com/langchain-ai/langchain) - PIL image fd leak in OpenAI token counting
 - **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Browser relay, rate limit UX, iMessage delivery, Codex sandbox detection, voice calls
