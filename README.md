@@ -18,15 +18,18 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[SGLang](https://github.com/sgl-project/sglang)** [![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat&color=gold)](https://github.com/sgl-project/sglang) - DSA/NSA attention backend support matrix, Qwen3-Reranker chat-template requirements
 - **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Browser relay, rate limit UX, iMessage delivery, Codex sandbox detection, voice calls
 - **[Paperclip](https://github.com/paperclipai/paperclip)** [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold)](https://github.com/paperclipai/paperclip) - SPA routing, FK cascade, agent wake-on-status, CLI hints, plugin domain events, .env fallback
+- **[Vercel Agent Browser](https://github.com/vercel-labs/agent-browser)** [![GitHub stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat&color=gold)](https://github.com/vercel-labs/agent-browser) - Appium v3 vendor prefix, chrome:// target filtering
 - **[QMD](https://github.com/tobi/qmd)** [![GitHub stars](https://img.shields.io/github/stars/tobi/qmd?style=flat&color=gold)](https://github.com/tobi/qmd) - `--no-rerank` query option
 - **[ByteDance's OpenViking](https://github.com/volcengine/OpenViking)** [![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&color=gold)](https://github.com/volcengine/OpenViking) - Agent space name hashing, MCP stdio contention detection, async memory extraction, semantic summary filtering, non-dict LLM response handling, filename preservation, retrieval quality observer
 - **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat&color=gold)](https://github.com/EveryInc/compound-engineering-plugin) - Plan gating, serial review mode, hook safety, config merging, skills migration, NTFS colon handling, agent namespace resolution
 - **[Accomplish](https://github.com/accomplish-ai/accomplish)** [![GitHub stars](https://img.shields.io/github/stars/accomplish-ai/accomplish?style=flat&color=gold)](https://github.com/accomplish-ai/accomplish) - Russian and French language support
 - **[NVIDIA Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Nemotron?style=flat&color=gold)](https://github.com/NVIDIA-NeMo/Nemotron) - Recipes, cookbooks, and examples organization
 - **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind path resolution, mise version detection
+- **[OpenBrand](https://github.com/ethanjyx/openbrand)** - Extraction error messaging
 - **[Parallel](https://github.com/parallel-web/parallel-web-tools)** - Shell completion for bash, zsh, and fish
 - **[Kilroy](https://github.com/danshapiro/kilroy)** - Circuit breaker, prompt loading, heartbeat events, CLI tooling
 - **[CascadeFlow](https://github.com/lemony-ai/cascadeflow)** - Trace export and offline cascade simulation
+- **[CEOS](https://github.com/bradfeld/ceos)** - EOS longitudinal health tracking
 
 #### OpenClaw Skills
 
