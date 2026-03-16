@@ -40,3 +40,8 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Manus](https://github.com/mvanhorn/clawdbot-skill-manus)** - Create autonomous AI tasks via Manus API
 - **[Tesla](https://github.com/mvanhorn/clawdbot-skill-tesla)** - Control your Tesla vehicles
 - **[xAI](https://github.com/mvanhorn/clawdbot-skill-xai)** - Chat with Grok models via xAI API
+
+#### Paperclip Plugins
+
+- **[Discord](https://github.com/mvanhorn/paperclip-plugin-discord)** - Bidirectional Discord integration: notifications, slash commands, and community intelligence
+- **[Slack](https://github.com/mvanhorn/paperclip-plugin-slack)** - Slack notifications for issue creation, completion, and approval workflows
