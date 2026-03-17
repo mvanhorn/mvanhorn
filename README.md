@@ -27,7 +27,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Lightpanda Browser](https://github.com/lightpanda-io/browser)** [![GitHub stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&color=gold)](https://github.com/lightpanda-io/browser) - AXValue integer serialization per CDP spec, charset prescan detection
 - **[NVIDIA Nemotron](https://github.com/NVIDIA-NeMo/Nemotron)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/Nemotron?style=flat&color=gold)](https://github.com/NVIDIA-NeMo/Nemotron) - Recipes, cookbooks, and examples organization
 - **[Accomplish](https://github.com/accomplish-ai/accomplish)** [![GitHub stars](https://img.shields.io/github/stars/accomplish-ai/accomplish?style=flat&color=gold)](https://github.com/accomplish-ai/accomplish) - Russian and French language support
-- **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind path resolution, mise version detection
+- **[Entire CLI](https://github.com/entireio/cli)** [![GitHub stars](https://img.shields.io/github/stars/entireio/cli?style=flat&color=gold)](https://github.com/entireio/cli) - Rewind path resolution, mise version detection, bare-repo worktree layout, hk hook manager detection
 - **[OpenBrand](https://github.com/ethanjyx/openbrand)** - Extraction error messaging
 - **[HawkDoc](https://github.com/hawk-doc/hawkdoc)** - Table block support via @lexical/table
 - **[Parallel](https://github.com/parallel-web/parallel-web-tools)** - Shell completion for bash, zsh, and fish
