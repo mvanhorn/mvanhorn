@@ -59,5 +59,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 
 - **[Discord](https://github.com/mvanhorn/paperclip-plugin-discord)** - Bidirectional Discord integration: notifications, slash commands, and community intelligence
 - **[Slack](https://github.com/mvanhorn/paperclip-plugin-slack)** - Slack notifications for issue creation, completion, and approval workflows
+- **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
+- **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
 *Last updated: 2026-03-18*
