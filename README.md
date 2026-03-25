@@ -95,6 +95,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Boeing Config File Validator](https://github.com/Boeing/config-file-validator)** [![GitHub stars](https://img.shields.io/github/stars/Boeing/config-file-validator?style=flat&color=gold)](https://github.com/Boeing/config-file-validator) - --file-types flag for targeted config file validation
 - **[GraphQL Hive Console](https://github.com/graphql-hive/console)** [![GitHub stars](https://img.shields.io/github/stars/graphql-hive/console?style=flat&color=gold)](https://github.com/graphql-hive/console) - Skeleton loader for access token loading states
 - **[Cedar](https://github.com/cedarjs/cedar)** - Dry-run upgrade output messaging
+- **[ORT](https://github.com/oss-review-toolkit/ort)** [![GitHub stars](https://img.shields.io/github/stars/oss-review-toolkit/ort?style=flat&color=gold)](https://github.com/oss-review-toolkit/ort) - Package configuration provider precedence
 
 #### OpenClaw Skills
 
