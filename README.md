@@ -31,7 +31,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[prek](https://github.com/j178/prek)** [![GitHub stars](https://img.shields.io/github/stars/j178/prek?style=flat&color=gold)](https://github.com/j178/prek) - VCS permalink and illegal Windows filename builtin hooks
 - **[Vercel AI SDK](https://github.com/vercel/ai)** [![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=flat&color=gold)](https://github.com/vercel/ai) - xAI provider model list GA updates
 - **[photoview](https://github.com/photoview/photoview)** [![GitHub stars](https://img.shields.io/github/stars/photoview/photoview?style=flat&color=gold)](https://github.com/photoview/photoview) - Configurable media probing timeout via environment variable
-- **[stdlib](https://github.com/stdlib-js/stdlib)** [![GitHub stars](https://img.shields.io/github/stars/stdlib-js/stdlib?style=flat&color=gold)](https://github.com/stdlib-js/stdlib) - Unused ESLint directive removal
+- **[stdlib](https://github.com/stdlib-js/stdlib)** [![GitHub stars](https://img.shields.io/github/stars/stdlib-js/stdlib?style=flat&color=gold)](https://github.com/stdlib-js/stdlib) - ESLint directive cleanup, ndarray grammar corrections, benchmark descriptions
 - **[Superpowers](https://github.com/obra/superpowers)** [![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=flat&color=gold)](https://github.com/obra/superpowers) - Session-start hook platform deduplication (tied for #7 human contributor)
 - **[GitPython](https://github.com/gitpython-developers/GitPython)** [![GitHub stars](https://img.shields.io/github/stars/gitpython-developers/GitPython?style=flat&color=gold)](https://github.com/gitpython-developers/GitPython) - GitDB large commit performance warning
 - **[RTK](https://github.com/rtk-ai/rtk)** [![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat&color=gold)](https://github.com/rtk-ai/rtk) - `gh pr view --comments` passthrough, compact_diff skipping for flag-only args
@@ -98,6 +98,18 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[GraphQL Hive Console](https://github.com/graphql-hive/console)** [![GitHub stars](https://img.shields.io/github/stars/graphql-hive/console?style=flat&color=gold)](https://github.com/graphql-hive/console) - Skeleton loader for access token loading states
 - **[Cedar](https://github.com/cedarjs/cedar)** - Dry-run upgrade output messaging
 - **[ORT](https://github.com/oss-review-toolkit/ort)** [![GitHub stars](https://img.shields.io/github/stars/oss-review-toolkit/ort?style=flat&color=gold)](https://github.com/oss-review-toolkit/ort) - Package configuration provider precedence
+- **[Agency Agents](https://github.com/msitarzewski/agency-agents)** [![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat&color=gold)](https://github.com/msitarzewski/agency-agents) - Agent name normalization
+- **[Impeccable](https://github.com/pbakaus/impeccable)** [![GitHub stars](https://img.shields.io/github/stars/pbakaus/impeccable?style=flat&color=gold)](https://github.com/pbakaus/impeccable) - Dropdown positioning guidance for interaction design
+- **[containerd nerdctl](https://github.com/containerd/nerdctl)** [![GitHub stars](https://img.shields.io/github/stars/containerd/nerdctl?style=flat&color=gold)](https://github.com/containerd/nerdctl) - Makefile uninstall target
+- **[Editor](https://github.com/pascalorg/editor)** [![GitHub stars](https://img.shields.io/github/stars/pascalorg/editor?style=flat&color=gold)](https://github.com/pascalorg/editor) - STL and OBJ export formats
+- **[Gumroad Skills](https://github.com/slavingia/skills)** [![GitHub stars](https://img.shields.io/github/stars/slavingia/skills?style=flat&color=gold)](https://github.com/slavingia/skills) - Processize skill for manual-first process design
+- **[projen](https://github.com/projen/projen)** [![GitHub stars](https://img.shields.io/github/stars/projen/projen?style=flat&color=gold)](https://github.com/projen/projen) - GitHub artifact actions Node 24 compatibility bump
+- **[tabled](https://github.com/zhiburt/tabled)** [![GitHub stars](https://img.shields.io/github/stars/zhiburt/tabled?style=flat&color=gold)](https://github.com/zhiburt/tabled) - Color::is_empty method
+- **[Posit Shiny for Python](https://github.com/posit-dev/py-shiny)** [![GitHub stars](https://img.shields.io/github/stars/posit-dev/py-shiny?style=flat&color=gold)](https://github.com/posit-dev/py-shiny) - Reactive and render function parameter validation
+- **[deb-get](https://github.com/wimpysworld/deb-get)** [![GitHub stars](https://img.shields.io/github/stars/wimpysworld/deb-get?style=flat&color=gold)](https://github.com/wimpysworld/deb-get) - getnf and final2x packages
+- **[Linear CLI](https://github.com/linear/linear)** [![GitHub stars](https://img.shields.io/github/stars/linear/linear?style=flat&color=gold)](https://github.com/linear/linear) - Non-interactive mode with CLI flags
+- **[Bandersnatch](https://github.com/pypa/bandersnatch)** - Filter matching log level adjustment
+- **[Translate Toolkit](https://github.com/translate/translate)** - pot2po command alias
 
 #### OpenClaw Skills
 
@@ -115,4 +127,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-03-26*
+*Last updated: 2026-03-27*
