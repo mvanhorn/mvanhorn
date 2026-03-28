@@ -28,6 +28,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Kilo-Org Kilocode](https://github.com/Kilo-Org/kilocode)** [![GitHub stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat&color=gold)](https://github.com/Kilo-Org/kilocode) - Git config flags for Windows snapshot cleanup
 - **[VS Code Front Matter](https://github.com/estruyf/vscode-front-matter)** [![GitHub stars](https://img.shields.io/github/stars/estruyf/vscode-front-matter?style=flat&color=gold)](https://github.com/estruyf/vscode-front-matter) - Dot-prefixed folder hiding in media panel
 - **[SurfSense](https://github.com/MODSetter/SurfSense)** [![GitHub stars](https://img.shields.io/github/stars/MODSetter/SurfSense?style=flat&color=gold)](https://github.com/MODSetter/SurfSense) - Development console.log gating, empty catch block error logging, nested interactive element separation, invite error toasts, maxLength input constraints, hero carousel state updates
+- **[svg-to-compose](https://github.com/rafaeltonholo/svg-to-compose)** - CLI build-type condition, verbose log typo correction (#2 human contributor)
 - **[prek](https://github.com/j178/prek)** [![GitHub stars](https://img.shields.io/github/stars/j178/prek?style=flat&color=gold)](https://github.com/j178/prek) - VCS permalink and illegal Windows filename builtin hooks
 - **[Vercel AI SDK](https://github.com/vercel/ai)** [![GitHub stars](https://img.shields.io/github/stars/vercel/ai?style=flat&color=gold)](https://github.com/vercel/ai) - xAI provider model list GA updates
 - **[photoview](https://github.com/photoview/photoview)** [![GitHub stars](https://img.shields.io/github/stars/photoview/photoview?style=flat&color=gold)](https://github.com/photoview/photoview) - Configurable media probing timeout via environment variable
@@ -130,5 +131,5 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-03-27*
+*Last updated: 2026-03-28*
 
