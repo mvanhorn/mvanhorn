@@ -115,6 +115,12 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Bandersnatch](https://github.com/pypa/bandersnatch)** - Filter matching log level adjustment
 - **[Translate Toolkit](https://github.com/translate/translate)** - pot2po command alias
 
+- **[RubyGems.org](https://github.com/rubygems/rubygems.org)** [![GitHub stars](https://img.shields.io/github/stars/rubygems/rubygems.org?style=flat&color=gold)](https://github.com/rubygems/rubygems.org) - Name validation error message precision
+- **[Pygments](https://github.com/pygments/pygments)** [![GitHub stars](https://img.shields.io/github/stars/pygments/pygments?style=flat&color=gold)](https://github.com/pygments/pygments) - Haskell lexer escape sequence handling in character literals
+- **[Feldera](https://github.com/feldera/feldera)** [![GitHub stars](https://img.shields.io/github/stars/feldera/feldera?style=flat&color=gold)](https://github.com/feldera/feldera) - Output buffer stall pipeline log messaging
+- **[iocraft](https://github.com/ccbrown/iocraft)** [![GitHub stars](https://img.shields.io/github/stars/ccbrown/iocraft?style=flat&color=gold)](https://github.com/ccbrown/iocraft) - Home/End and Ctrl+A/E key bindings for TextInput (tied for #7 human contributor)
+- **[Meilisearch JS](https://github.com/meilisearch/meilisearch-js)** [![GitHub stars](https://img.shields.io/github/stars/meilisearch/meilisearch-js?style=flat&color=gold)](https://github.com/meilisearch/meilisearch-js) - Federated search `distinct` parameter support
+- **[OPA Regal](https://github.com/open-policy-agent/regal)** [![GitHub stars](https://img.shields.io/github/stars/open-policy-agent/regal?style=flat&color=gold)](https://github.com/open-policy-agent/regal) - `--profile` format validation for JSON output requirement
 #### OpenClaw Skills
 
 - **[Search X](https://github.com/mvanhorn/clawdbot-skill-search-x)** - Real-time X/Twitter search powered by Grok
@@ -131,5 +137,5 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-03-28*
+*Last updated: 2026-03-30*
 
