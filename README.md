@@ -177,6 +177,39 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[turbolite](https://github.com/russellromney/turbolite)** [![GitHub stars](https://img.shields.io/github/stars/russellromney/turbolite?style=flat&color=gold)](https://github.com/russellromney/turbolite) - version subcommand and CLI scaffolding
 - **[Wireup](https://github.com/maldoinc/wireup)** [![GitHub stars](https://img.shields.io/github/stars/maldoinc/wireup?style=flat&color=gold)](https://github.com/maldoinc/wireup) - Python 3.13 _eval_type type_params for DeprecationWarning suppression
 - **[lazyjira](https://github.com/textfuel/lazyjira)** [![GitHub stars](https://img.shields.io/github/stars/textfuel/lazyjira?style=flat&color=gold)](https://github.com/textfuel/lazyjira) - Assignable-user pagination for all org members
+- **[Google's Gemini CLI](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat&color=gold)](https://github.com/google-gemini/gemini-cli) - Custom seatbelt profile resolution from $HOME/.gemini
+- **[MemPalace](https://github.com/MemPalace/mempalace)** [![GitHub stars](https://img.shields.io/github/stars/MemPalace/mempalace?style=flat&color=gold)](https://github.com/MemPalace/mempalace) - Mining directories without a local mempalace.yaml
+- **[Voicebox](https://github.com/jamiepine/voicebox)** [![GitHub stars](https://img.shields.io/github/stars/jamiepine/voicebox?style=flat&color=gold)](https://github.com/jamiepine/voicebox) - Blackwell GPU (sm_120) CUDA support, Windows server keepalive after GUI close, clip splitting reliability
+- **[Vercel JSON Render](https://github.com/vercel-labs/json-render)** [![GitHub stars](https://img.shields.io/github/stars/vercel-labs/json-render?style=flat&color=gold)](https://github.com/vercel-labs/json-render) - Zod 4 record, default, and literal type handling in formatZodType
+- **[Claudian](https://github.com/YishenTu/claudian)** [![GitHub stars](https://img.shields.io/github/stars/YishenTu/claudian?style=flat&color=gold)](https://github.com/YishenTu/claudian) - Duplicate tooltip removal on tab badge hover
+- **[AWS s2n-tls](https://github.com/aws/s2n-tls)** [![GitHub stars](https://img.shields.io/github/stars/aws/s2n-tls?style=flat&color=gold)](https://github.com/aws/s2n-tls) - Binding link standardization to monospaced format
+- **[Microsoft .NET Docs](https://github.com/dotnet/docs)** [![GitHub stars](https://img.shields.io/github/stars/dotnet/docs?style=flat&color=gold)](https://github.com/dotnet/docs) - "how to uses" typo correction
+- **[Clawith](https://github.com/dataelement/Clawith)** [![GitHub stars](https://img.shields.io/github/stars/dataelement/Clawith?style=flat&color=gold)](https://github.com/dataelement/Clawith) - Auth login and /me endpoint test coverage
+- **[Bloomberg BlazingMQ](https://github.com/bloomberg/blazingmq)** [![GitHub stars](https://img.shields.io/github/stars/bloomberg/blazingmq?style=flat&color=gold)](https://github.com/bloomberg/blazingmq) - Spelling normalization for 'overridden' and 'COMPARISON'
+- **[Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang-nursery/rust-cookbook?style=flat&color=gold)](https://github.com/rust-lang-nursery/rust-cookbook) - Contributing guide pointer from retired Gitter to Zulip
+- **[Datafaker](https://github.com/datafaker-net/datafaker)** [![GitHub stars](https://img.shields.io/github/stars/datafaker-net/datafaker?style=flat&color=gold)](https://github.com/datafaker-net/datafaker) - Emergency provider with nature, location, and instruction data
+- **[Swift Cross UI](https://github.com/moreSwift/swift-cross-ui)** [![GitHub stars](https://img.shields.io/github/stars/moreSwift/swift-cross-ui?style=flat&color=gold)](https://github.com/moreSwift/swift-cross-ui) - Frame dimensions Int to Double for SwiftUI compatibility
+- **[FerrisKey](https://github.com/ferriskey/ferriskey)** [![GitHub stars](https://img.shields.io/github/stars/ferriskey/ferriskey?style=flat&color=gold)](https://github.com/ferriskey/ferriskey) - Redundant to_string removal in role permission mapper
+- **[BancosBrasileiros](https://github.com/guibranco/BancosBrasileiros)** [![GitHub stars](https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=flat&color=gold)](https://github.com/guibranco/BancosBrasileiros) - Dead Snyk vulnerability badge removal from README
+- **[Cordum](https://github.com/cordum-io/cordum)** [![GitHub stars](https://img.shields.io/github/stars/cordum-io/cordum?style=flat&color=gold)](https://github.com/cordum-io/cordum) - Prometheus metrics for approval workflow, reset config button on mock bank, REST-only chat endpoint note in OpenAPI, chat API error surfacing in run detail panel, copy buttons for job and run IDs
+- **[Terraform Provider MinIO](https://github.com/aminueza/terraform-provider-minio)** [![GitHub stars](https://img.shields.io/github/stars/aminueza/terraform-provider-minio?style=flat&color=gold)](https://github.com/aminueza/terraform-provider-minio) - bandwidth_limt typo field deprecation in schema
+- **[ChatPRD tradclaw](https://github.com/ChatPRD/tradclaw)** [![GitHub stars](https://img.shields.io/github/stars/ChatPRD/tradclaw?style=flat&color=gold)](https://github.com/ChatPRD/tradclaw) - Calendar-briefs skill
+- **[Hugging Face Transformers Research Projects](https://github.com/huggingface/transformers-research-projects)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers-research-projects?style=flat&color=gold)](https://github.com/huggingface/transformers-research-projects) - Broken Google Drive link replacement in rag-end2end-retriever
+- **[hledger-textual](https://github.com/thesmokinator/hledger-textual)** - Unknown-account warning on budget form blur
+- **[tokenjuice](https://github.com/vincentkoc/tokenjuice)** - Native hook installer for Claude Code
+- **[cve-lite-cli](https://github.com/sonukapoor/cve-lite-cli)** - Trust-and-support links on the doc site
+- **[Library Carpentry Wikidata](https://github.com/LibraryCarpentry/lc-wikidata)** - FIXME placeholder title replacement on reference page
+- **[pepper-x](https://github.com/obra/pepper-x)** - GitHub Actions CI workflow, cleanup helper stderr suppression
+- **[mistral-parler](https://github.com/AbdelStark/mistral-parler)** - parler completion shell support for bash, zsh, and fish
+- **[axint](https://github.com/agenticempire/axint)** - TS-to-Swift compression ratio display after compile
+- **[error-translator-cli-v2](https://github.com/gourabanandad/error-translator-cli-v2)** - --json flag for structured output
+- **[klonode](https://github.com/smorchj/klonode)** - Configurable max file size plus skipped-file reporting in content extractor
+- **[pisyn](https://github.com/pipecrew/pisyn)** - Error return replacing panic in duplicate job name check
+- **[lingva](https://github.com/vacanza/lingva)** - Dependabot configuration
+- **[memtomem](https://github.com/memtomem/memtomem)** - _WATCHER_QUEUE_MAXSIZE constant extraction in indexing watcher
+- **[rocky](https://github.com/rocky-data/rocky)** - Friendly error when rocky.toml is missing
+- **[CForge](https://github.com/Sandesh282/CForge)** - Verdict.faled to Verdict.failed rename
+- **[styxx](https://github.com/fathom-lab/styxx)** - One-time warning when observe() has no logprobs
 
 #### OpenClaw Skills
 
@@ -194,4 +227,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-04-14*
+*Last updated: 2026-04-17*
