@@ -210,6 +210,20 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[rocky](https://github.com/rocky-data/rocky)** - Friendly error when rocky.toml is missing
 - **[CForge](https://github.com/Sandesh282/CForge)** - Verdict.faled to Verdict.failed rename
 - **[styxx](https://github.com/fathom-lab/styxx)** - One-time warning when observe() has no logprobs
+- **[GitHub .gitignore](https://github.com/github/gitignore)** [![GitHub stars](https://img.shields.io/github/stars/github/gitignore?style=flat&color=gold)](https://github.com/github/gitignore) - Zed editor, Tauri, and Deno gitignore templates
+- **[llmfit](https://github.com/AlexsJones/llmfit)** [![GitHub stars](https://img.shields.io/github/stars/AlexsJones/llmfit?style=flat&color=gold)](https://github.com/AlexsJones/llmfit) - VRAM estimates at common context sizes in TUI detail view, runtime/backend filter popup
+- **[Ping t3code](https://github.com/pingdotgg/t3code)** [![GitHub stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=flat&color=gold)](https://github.com/pingdotgg/t3code) - Capture-phase keydown listener so CTRL+J toggles terminal from terminal focus on Windows
+- **[BeeWare Toga](https://github.com/beeware/toga)** [![GitHub stars](https://img.shields.io/github/stars/beeware/toga?style=flat&color=gold)](https://github.com/beeware/toga) - Sentence-case normalization for page titles and sidebar
+- **[Armbian Build](https://github.com/armbian/build)** [![GitHub stars](https://img.shields.io/github/stars/armbian/build?style=flat&color=gold)](https://github.com/armbian/build) - armbian-resize-filesystem diskdevname fallback for /dev/sda* devices
+- **[MapLibre Martin](https://github.com/maplibre/martin)** [![GitHub stars](https://img.shields.io/github/stars/maplibre/martin?style=flat&color=gold)](https://github.com/maplibre/martin) - Style preview centering from style JSON center/zoom
+- **[Camofox Browser](https://github.com/jo-inc/camofox-browser)** [![GitHub stars](https://img.shields.io/github/stars/jo-inc/camofox-browser?style=flat&color=gold)](https://github.com/jo-inc/camofox-browser) - Orphaned camoufox temp file cleanup on startup
+- **[OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO)** [![GitHub stars](https://img.shields.io/github/stars/AcademySoftwareFoundation/OpenImageIO?style=flat&color=gold)](https://github.com/AcademySoftwareFoundation/OpenImageIO) - OIIO_NODISCARD attribute on ImageInput create/open/read methods
+- **[kana-dojo](https://github.com/lingdojo/kana-dojo)** [![GitHub stars](https://img.shields.io/github/stars/lingdojo/kana-dojo?style=flat&color=gold)](https://github.com/lingdojo/kana-dojo) - Video game quote content
+- **[OpenAlgo](https://github.com/marketcalls/openalgo)** [![GitHub stars](https://img.shields.io/github/stars/marketcalls/openalgo?style=flat&color=gold)](https://github.com/marketcalls/openalgo) - Structured exception logging via logger.exception() in restx_api
+- **[Stably Orca](https://github.com/stablyai/orca)** [![GitHub stars](https://img.shields.io/github/stars/stablyai/orca?style=flat&color=gold)](https://github.com/stablyai/orca) - Terminal-search high-contrast Cmd+F match highlighting
+- **[Svelte CLI](https://github.com/sveltejs/cli)** [![GitHub stars](https://img.shields.io/github/stars/sveltejs/cli?style=flat&color=gold)](https://github.com/sveltejs/cli) - @deprecated tag scoped to legacy create(cwd, options) overload
+- **[starlight-llms-txt](https://github.com/delucis/starlight-llms-txt)** - HTML comment stripping from llms.txt output
+- **[reposcan](https://github.com/mabd-dev/reposcan)** - Redundant remote name hidden in state column
 
 #### OpenClaw Skills
 
@@ -227,4 +241,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-04-17*
+*Last updated: 2026-04-18*
