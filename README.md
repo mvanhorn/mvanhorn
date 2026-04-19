@@ -224,6 +224,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Svelte CLI](https://github.com/sveltejs/cli)** [![GitHub stars](https://img.shields.io/github/stars/sveltejs/cli?style=flat&color=gold)](https://github.com/sveltejs/cli) - @deprecated tag scoped to legacy create(cwd, options) overload
 - **[starlight-llms-txt](https://github.com/delucis/starlight-llms-txt)** - HTML comment stripping from llms.txt output
 - **[reposcan](https://github.com/mabd-dev/reposcan)** - Redundant remote name hidden in state column
+- **[llamactl](https://github.com/lordmathis/llamactl)** [![GitHub stars](https://img.shields.io/github/stars/lordmathis/llamactl?style=flat&color=gold)](https://github.com/lordmathis/llamactl) - Button to open llama-server built-in UI from the UI settings panel (#3 human contributor)
 
 #### OpenClaw Skills
 
@@ -241,4 +242,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-04-18*
+*Last updated: 2026-04-19*
