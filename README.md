@@ -225,6 +225,12 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[starlight-llms-txt](https://github.com/delucis/starlight-llms-txt)** - HTML comment stripping from llms.txt output
 - **[reposcan](https://github.com/mabd-dev/reposcan)** - Redundant remote name hidden in state column
 - **[llamactl](https://github.com/lordmathis/llamactl)** [![GitHub stars](https://img.shields.io/github/stars/lordmathis/llamactl?style=flat&color=gold)](https://github.com/lordmathis/llamactl) - Button to open llama-server built-in UI from the UI settings panel (#3 human contributor)
+- **[ponyc](https://github.com/ponylang/ponyc)** [![GitHub stars](https://img.shields.io/github/stars/ponylang/ponyc?style=flat&color=gold)](https://github.com/ponylang/ponyc) - test-pony-compiler Make target, CMake CMP0135 ExternalProject warnings
+- **[vscode-icons](https://github.com/vscode-icons/vscode-icons)** [![GitHub stars](https://img.shields.io/github/stars/vscode-icons/vscode-icons?style=flat&color=gold)](https://github.com/vscode-icons/vscode-icons) - welcome-shown state sync through Settings Sync
+- **[Style Dictionary](https://github.com/style-dictionary/style-dictionary)** [![GitHub stars](https://img.shields.io/github/stars/style-dictionary/style-dictionary?style=flat&color=gold)](https://github.com/style-dictionary/style-dictionary) - Token collision resolution in the basic example
+- **[Awesome Static Hosting and CMS](https://github.com/MooseTheRebel/awesome-static-hosting-and-cms)** [![GitHub stars](https://img.shields.io/github/stars/MooseTheRebel/awesome-static-hosting-and-cms?style=flat&color=gold)](https://github.com/MooseTheRebel/awesome-static-hosting-and-cms) - Auto-sort TOML entries by name, justfile recipes
+- **[Evaliphy](https://github.com/Evaliphy/evaliphy)** - JsonAccumulator unused attach() removal
+- **[sql-guard](https://github.com/Pawansingh3889/sql-guard)** - W012 group-by-ordinal rule
 
 #### OpenClaw Skills
 
