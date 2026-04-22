@@ -11,6 +11,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 #### Contributing to
 
 - **[Python](https://github.com/python/cpython)** [![GitHub stars](https://img.shields.io/github/stars/python/cpython?style=flat&color=gold)](https://github.com/python/cpython) - Defaultdict __repr__ infinite recursion, man page -X option text wrapping
+- **[Go](https://github.com/golang/go)** [![GitHub stars](https://img.shields.io/github/stars/golang/go?style=flat&color=gold)](https://github.com/golang/go) - net package abstract Unix socket address syntax clarification, blog pipelines explicit cancellation example
 - **[OpenCV](https://github.com/opencv/opencv)** [![GitHub stars](https://img.shields.io/github/stars/opencv/opencv?style=flat&color=gold)](https://github.com/opencv/opencv) - HoughCircles Python return type, YAML parser heap-overflow, reprojection error RMSE calculation
 - **[Vercel Agent Browser](https://github.com/vercel-labs/agent-browser)** [![GitHub stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat&color=gold)](https://github.com/vercel-labs/agent-browser) - Appium v3 vendor prefix, chrome:// target filtering, WebSocket fallback, batch command workflows (#2 human contributor)
 - **[OpenClaw](https://github.com/openclaw/openclaw)** [![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&color=gold)](https://github.com/openclaw/openclaw) - Browser relay, rate limit UX, iMessage delivery, Codex sandbox detection, voice calls, Telegram group prefix normalization
@@ -18,6 +19,8 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[ByteDance's Deer Flow](https://github.com/bytedance/deer-flow)** [![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat&color=gold)](https://github.com/bytedance/deer-flow) - WebGL context graceful fallback, Cmd+K command palette and keyboard shortcuts, token usage per conversation turn, Docker service name channel URL guidance
 - **[ByteDance's OpenViking](https://github.com/volcengine/OpenViking)** [![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&color=gold)](https://github.com/volcengine/OpenViking) - Agent space name hashing, MCP stdio contention detection, async memory extraction, semantic summary filtering, non-dict LLM response handling, filename preservation, retrieval quality observer, auto-recall timeout prevention, cold-storage archival, MCP api_key support, VLM max_tokens, Whisper ASR integration, reindex command, PDF bookmark resolution, Prometheus metrics, memory health API, litellm rerank provider, provenance metadata, diagnostic command, OCR text extraction for image parser, skills search scope, non-UTF-8 filename handling, VLM startup hang prevention (#5 human contributor)
 - **[Paperclip](https://github.com/paperclipai/paperclip)** [![GitHub stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold)](https://github.com/paperclipai/paperclip) - SPA routing, FK cascade, agent wake-on-status, CLI hints, plugin domain events, .env fallback, promptfoo eval framework, project filter, inline image embedding, AGENTS.md graceful fallback (#4 human contributor)
+- **[Hermes Agent](https://github.com/NousResearch/hermes-agent)** [![GitHub stars](https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat&color=gold)](https://github.com/NousResearch/hermes-agent) - Per-provider request timeout resolver with init-site hook wiring
+- **[Hermes WebUI](https://github.com/nesquena/hermes-webui)** [![GitHub stars](https://img.shields.io/github/stars/nesquena/hermes-webui?style=flat&color=gold)](https://github.com/nesquena/hermes-webui) - Opt-in chat bubble layout with Spanish translations
 - **[Hugging Face Transformers](https://github.com/huggingface/transformers)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=flat&color=gold)](https://github.com/huggingface/transformers) - QA pipeline decode_spans boundary check
 - **[Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)** [![GitHub stars](https://img.shields.io/github/stars/hacksider/Deep-Live-Cam?style=flat&color=gold)](https://github.com/hacksider/Deep-Live-Cam) - Face enhancer process_frame_v2 pipeline method
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&color=gold)](https://github.com/langgenius/dify) - Shiki syntax highlighting migration
@@ -231,6 +234,18 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Awesome Static Hosting and CMS](https://github.com/MooseTheRebel/awesome-static-hosting-and-cms)** [![GitHub stars](https://img.shields.io/github/stars/MooseTheRebel/awesome-static-hosting-and-cms?style=flat&color=gold)](https://github.com/MooseTheRebel/awesome-static-hosting-and-cms) - Auto-sort TOML entries by name, justfile recipes
 - **[Evaliphy](https://github.com/Evaliphy/evaliphy)** - JsonAccumulator unused attach() removal
 - **[sql-guard](https://github.com/Pawansingh3889/sql-guard)** - W012 group-by-ordinal rule
+- **[rspack](https://github.com/web-infra-dev/rspack)** [![GitHub stars](https://img.shields.io/github/stars/web-infra-dev/rspack?style=flat&color=gold)](https://github.com/web-infra-dev/rspack) - --open and --no-open flags for rspack dev and serve
+- **[BasedHardware omi](https://github.com/BasedHardware/omi)** [![GitHub stars](https://img.shields.io/github/stars/BasedHardware/omi?style=flat&color=gold)](https://github.com/BasedHardware/omi) - mcuboot.conf restoration for firmware builds, getAuthHeader null-guard in app
+- **[gogcli](https://github.com/steipete/gogcli)** [![GitHub stars](https://img.shields.io/github/stars/steipete/gogcli?style=flat&color=gold)](https://github.com/steipete/gogcli) - config.json entry cleanup on auth remove
+- **[WorkAdventure](https://github.com/workadventure/workadventure)** [![GitHub stars](https://img.shields.io/github/stars/workadventure/workadventure?style=flat&color=gold)](https://github.com/workadventure/workadventure) - OIDC tags claim JSON-encoded string handling
+- **[Kaiju Engine](https://github.com/KaijuEngine/kaiju)** [![GitHub stars](https://img.shields.io/github/stars/KaijuEngine/kaiju?style=flat&color=gold)](https://github.com/KaijuEngine/kaiju) - 'Open log file' entry in status-bar log right-click menu
+- **[AgentScope Java](https://github.com/agentscope-ai/agentscope-java)** [![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/agentscope-java?style=flat&color=gold)](https://github.com/agentscope-ai/agentscope-java) - Map type handling in getChatUsage() after deserialization
+- **[Mozilla neqo](https://github.com/mozilla/neqo)** [![GitHub stars](https://img.shields.io/github/stars/mozilla/neqo?style=flat&color=gold)](https://github.com/mozilla/neqo) - contains_handshake and assert_contains_handshake helpers
+- **[Chunky](https://github.com/chunky-dev/chunky)** [![GitHub stars](https://img.shields.io/github/stars/chunky-dev/chunky?style=flat&color=gold)](https://github.com/chunky-dev/chunky) - Warning surface for unsupported blocks after chunk loading
+- **[Matcha](https://github.com/floatpane/matcha)** [![GitHub stars](https://img.shields.io/github/stars/floatpane/matcha?style=flat&color=gold)](https://github.com/floatpane/matcha) - fetcher surfaces ignored io.ReadAll errors
+- **[eval-view](https://github.com/hidai25/eval-view)** - --json flag for evalview snapshot
+- **[Homebrew brew-vulns](https://github.com/Homebrew/homebrew-brew-vulns)** - User-Agent header on OSV API requests
+- **[limenex](https://github.com/limenex-hq/limenex)** - python -m limenex validate CLI for policies.yaml
 
 #### OpenClaw Skills
 
@@ -248,4 +263,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-04-19*
+*Last updated: 2026-04-21*
