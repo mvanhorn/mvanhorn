@@ -246,6 +246,66 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[eval-view](https://github.com/hidai25/eval-view)** - --json flag for evalview snapshot
 - **[Homebrew brew-vulns](https://github.com/Homebrew/homebrew-brew-vulns)** - User-Agent header on OSV API requests
 - **[limenex](https://github.com/limenex-hq/limenex)** - python -m limenex validate CLI for policies.yaml
+- **[opencode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=flat&color=gold)](https://github.com/anomalyco/opencode) - add Ctrl+R reverse search for prompt history, show prompt when viewing subagent sessions
+- **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat&color=gold)](https://github.com/open-webui/open-webui) - add missing has_public_read_access_grant import in notes.py, handle ollama embedding errors for bge-m3 and similar models
+- **[Rust](https://github.com/rust-lang/rust)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang/rust?style=flat&color=gold)](https://github.com/rust-lang/rust) - Suppress closure suggestion for E0434 inside trait impl methods, Make E0434 help message context-aware
+- **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=flat&color=gold)](https://github.com/tesseract-ocr/tesseract) - XML_CATALOG_FILES cleared on Linux in configure.ac
+- **[tldr-pages](https://github.com/tldr-pages/tldr)** [![GitHub stars](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat&color=gold)](https://github.com/tldr-pages/tldr) - jless: add page
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat&color=gold)](https://github.com/crewAIInc/crewAI) - extract tool arguments from Bedrock input field
+- **[Block's Goose](https://github.com/block/goose)** [![GitHub stars](https://img.shields.io/github/stars/block/goose?style=flat&color=gold)](https://github.com/block/goose) - add /md command to render markdown files
+- **[nanobot](https://github.com/HKUDS/nanobot)** [![GitHub stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=flat&color=gold)](https://github.com/HKUDS/nanobot) - lazy-import heavy document parsers
+- **[OpenAI Agents Python](https://github.com/openai/openai-agents-python)** [![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat&color=gold)](https://github.com/openai/openai-agents-python) - add flush_traces() for long-running workers
+- **[Strix](https://github.com/usestrix/strix)** [![GitHub stars](https://img.shields.io/github/stars/usestrix/strix?style=flat&color=gold)](https://github.com/usestrix/strix) - add Kubernetes security testing skill
+- **[Lima](https://github.com/lima-vm/lima)** [![GitHub stars](https://img.shields.io/github/stars/lima-vm/lima?style=flat&color=gold)](https://github.com/lima-vm/lima) - drop Rosetta requirement note
+- **[MuseScore](https://github.com/musescore/MuseScore)** [![GitHub stars](https://img.shields.io/github/stars/musescore/MuseScore?style=flat&color=gold)](https://github.com/musescore/MuseScore) - correct Q_PROPERTY READ for markIrregularMeasures
+- **[Convex Backend](https://github.com/get-convex/convex-backend)** [![GitHub stars](https://img.shields.io/github/stars/get-convex/convex-backend?style=flat&color=gold)](https://github.com/get-convex/convex-backend) - Add custom CA certificate support for MySQL connections, preserve schema field order in dashboard data browser
+- **[gbrain](https://github.com/garrytan/gbrain)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat&color=gold)](https://github.com/garrytan/gbrain) - use typed request schemas for MCP server handler registration
+- **[Doctrine ORM](https://github.com/doctrine/orm)** [![GitHub stars](https://img.shields.io/github/stars/doctrine/orm?style=flat&color=gold)](https://github.com/doctrine/orm) - EntityManager transactional reference to wrapInTransaction
+- **[Claude Context](https://github.com/zilliztech/claude-context)** [![GitHub stars](https://img.shields.io/github/stars/zilliztech/claude-context?style=flat&color=gold)](https://github.com/zilliztech/claude-context) - drop unreachable throw in setTimeout-wrapped initial sync, tolerate gRPC timeout in checkCollectionLimit and clean up orphans, support custom collection-name override via env var
+- **[Bitwarden Android](https://github.com/bitwarden/android)** [![GitHub stars](https://img.shields.io/github/stars/bitwarden/android?style=flat&color=gold)](https://github.com/bitwarden/android) - localize Version label with parameterized string resource
+- **[evolver](https://github.com/EvoMap/evolver)** [![GitHub stars](https://img.shields.io/github/stars/EvoMap/evolver?style=flat&color=gold)](https://github.com/EvoMap/evolver) - cross-platform lifecycle and health_check, agent sessions dir follows EVOLVER_SESSION_SCOPE, disable ANSI color in spawned child so stdout stays plain
+- **[HoloViz Panel](https://github.com/holoviz/panel)** [![GitHub stars](https://img.shields.io/github/stars/holoviz/panel?style=flat&color=gold)](https://github.com/holoviz/panel) - doc: show `pn.state.sync_busy` in the busy how-to
+- **[obscura](https://github.com/h4ckf0r0day/obscura)** [![GitHub stars](https://img.shields.io/github/stars/h4ckf0r0day/obscura?style=flat&color=gold)](https://github.com/h4ckf0r0day/obscura) - add per-worker timeout to prevent indefinite hangs
+- **[Agenta](https://github.com/Agenta-AI/agenta)** [![GitHub stars](https://img.shields.io/github/stars/Agenta-AI/agenta?style=flat&color=gold)](https://github.com/Agenta-AI/agenta) - warn when instrument() is called before ag.init()
+- **[codeburn](https://github.com/getagentseal/codeburn)** [![GitHub stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat&color=gold)](https://github.com/getagentseal/codeburn) - add provider for cursor-agent CLI sessions
+- **[OpenAI Agents JS](https://github.com/openai/openai-agents-js)** [![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-js?style=flat&color=gold)](https://github.com/openai/openai-agents-js) - add ToolOutputTrimmer for token-efficient long conversations
+- **[cocotb](https://github.com/cocotb/cocotb)** [![GitHub stars](https://img.shields.io/github/stars/cocotb/cocotb?style=flat&color=gold)](https://github.com/cocotb/cocotb) - recommend coverage subprocess measurement as alternative
+- **[dulwich](https://github.com/jelmer/dulwich)** [![GitHub stars](https://img.shields.io/github/stars/jelmer/dulwich?style=flat&color=gold)](https://github.com/jelmer/dulwich) - Move GIT_SSH/GIT_SSH_COMMAND env lookup from client.py to cli.py
+- **[Microsoft APM](https://github.com/microsoft/apm)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/apm?style=flat&color=gold)](https://github.com/microsoft/apm) - Copilot adapter validates remote transport_type
+- **[Lightning Web Components](https://github.com/salesforce/lwc)** [![GitHub stars](https://img.shields.io/github/stars/salesforce/lwc?style=flat&color=gold)](https://github.com/salesforce/lwc) - reject lwc:inner-html on void elements
+- **[LinkedIn MCP Server](https://github.com/stickerdaniel/linkedin-mcp-server)** [![GitHub stars](https://img.shields.io/github/stars/stickerdaniel/linkedin-mcp-server?style=flat&color=gold)](https://github.com/stickerdaniel/linkedin-mcp-server) - drop closed #304 link from connect_with_person status
+- **[github-api](https://github.com/hub4j/github-api)** [![GitHub stars](https://img.shields.io/github/stars/hub4j/github-api?style=flat&color=gold)](https://github.com/hub4j/github-api) - Add missing setter methods to GHTeam
+- **[DragonOS](https://github.com/DragonOS-Community/DragonOS)** [![GitHub stars](https://img.shields.io/github/stars/DragonOS-Community/DragonOS?style=flat&color=gold)](https://github.com/DragonOS-Community/DragonOS) - replace todo!() with EISDIR in read_at/write_at
+- **[NGINX Gateway Fabric](https://github.com/nginx/nginx-gateway-fabric)** [![GitHub stars](https://img.shields.io/github/stars/nginx/nginx-gateway-fabric?style=flat&color=gold)](https://github.com/nginx/nginx-gateway-fabric) - add PodDisruptionBudget support for control plane
+- **[formae](https://github.com/platform-engineering-labs/formae)** [![GitHub stars](https://img.shields.io/github/stars/platform-engineering-labs/formae?style=flat&color=gold)](https://github.com/platform-engineering-labs/formae) - auto-adjust table MaxWidth to terminal width
+- **[Nextcloud Documentation](https://github.com/nextcloud/documentation)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/documentation?style=flat&color=gold)](https://github.com/nextcloud/documentation) - Strengthen smb backend's PHP smbclient recommendation
+- **[CrabTrap](https://github.com/brexhq/CrabTrap)** [![GitHub stars](https://img.shields.io/github/stars/brexhq/CrabTrap?style=flat&color=gold)](https://github.com/brexhq/CrabTrap) - Makefile help to reference make build instead of removed build-with-web target
+- **[Pactus](https://github.com/pactus-project/pactus)** [![GitHub stars](https://img.shields.io/github/stars/pactus-project/pactus?style=flat&color=gold)](https://github.com/pactus-project/pactus) - add CORS tests for HTTP gRPC-Gateway
+- **[AgenticGoKit](https://github.com/AgenticGoKit/AgenticGoKit)** [![GitHub stars](https://img.shields.io/github/stars/AgenticGoKit/AgenticGoKit?style=flat&color=gold)](https://github.com/AgenticGoKit/AgenticGoKit) - v1beta.NewBuilder examples in DEPRECATION.md
+- **[rapina](https://github.com/rapina-rs/rapina)** [![GitHub stars](https://img.shields.io/github/stars/rapina-rs/rapina?style=flat&color=gold)](https://github.com/rapina-rs/rapina) - use State<AppConfig> in create handler
+- **[slacrawl](https://github.com/vincentkoc/slacrawl)** [![GitHub stars](https://img.shields.io/github/stars/vincentkoc/slacrawl?style=flat&color=gold)](https://github.com/vincentkoc/slacrawl) - digest command for windowed per-channel summary, Slack export ZIP and directory import, sync DMs and MPIMs with user token
+- **[vigil-tui](https://github.com/GIN-SYSTEMS/vigil-tui)** - add --filter / -f to isolate processes by name
+- **[Agentic App with Fabric](https://github.com/Azure-Samples/agentic-app-with-fabric)** - views.sql filename reference in git_integration_deployment.md
+- **[KubeStellar Console](https://github.com/kubestellar/console)** - drain Statuspage response body after JSON decode
+- **[OWASP cve-lite-cli](https://github.com/OWASP/cve-lite-cli)** - add format-specific lockfile parser limitations, add trust-and-support links to docs site
+- **[EVUI](https://github.com/ex-em/EVUI)** - apply willReadFrequently option to canvas context
+- **[string-morpher](https://github.com/SSolWEB/string-morpher)** - add hideEmail transformer for PII masking
+- **[WP Accessibility Docs](https://github.com/wpaccessibility/wp-a11y-docs)** - make dummy links self-referencing to preserve viewport position
+- **[oracletrace](https://github.com/KaykCaputo/oracletrace)** - send error messages to stderr instead of stdout
+- **[astradial](https://github.com/astradial/astradial)** - Add .github/CODEOWNERS to auto-request reviews
+- **[DevImpact](https://github.com/O2sa/DevImpact)** - ui(score-card): remove fraction digits from displayed value
+- **[Hylo](https://github.com/hylo-lang/hylo-new)** - add spell-check workflow with crate-ci/typos
+- **[BridgeKit](https://github.com/getbridgekit/bridgekit)** - extract ANTHROPIC_API_KEY check into shared helper
+- **[gridcraft](https://github.com/Rohan-Shridhar/gridcraft)** - update Rohan Shridhar footer link to current portfolio, add Pull Request description template
+- **[agent-nexus](https://github.com/canoo/agent-nexus)** - default OLLAMA_HOST_URL to localhost
+- **[agentpulse](https://github.com/jstuart0/agentpulse)** - cover stopwords, multi-keyword, ties, order, and archived
+- **[hermes-cashew](https://github.com/magnus919/hermes-cashew)** - suppress sentence-transformers INFO noise
+- **[tealtiger](https://github.com/agentguard-ai/tealtiger)** - add Anthropic Claude quickstart, add GitHub Actions CI workflow example
+- **[mygit](https://github.com/Leonardo-Garzon-1995/mygit)** - add tests for ls-files command
+- **[matrix-webhook-bridge](https://github.com/krahlos/matrix-webhook-bridge)** - include error response body in log and re-raised HTTPError
+- **[2snipe-manager](https://github.com/jackvaughanjr/2snipe-manager)** - add shell completion and integration-name dynamic completion
+- **[leptos-solana](https://github.com/Rhovian/leptos-solana)** - add getSlot, getBlockHeight, getMinimumBalanceForRentExemption
+- **[esustellar](https://github.com/BlockHaven-Labs/esustellar)** - load browse page from registry contract
 
 #### OpenClaw Skills
 
@@ -263,4 +323,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-04-21*
+*Last updated: 2026-04-25*
