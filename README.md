@@ -233,7 +233,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Style Dictionary](https://github.com/style-dictionary/style-dictionary)** [![GitHub stars](https://img.shields.io/github/stars/style-dictionary/style-dictionary?style=flat&color=gold)](https://github.com/style-dictionary/style-dictionary) - Token collision resolution in the basic example
 - **[Awesome Static Hosting and CMS](https://github.com/MooseTheRebel/awesome-static-hosting-and-cms)** [![GitHub stars](https://img.shields.io/github/stars/MooseTheRebel/awesome-static-hosting-and-cms?style=flat&color=gold)](https://github.com/MooseTheRebel/awesome-static-hosting-and-cms) - Auto-sort TOML entries by name, justfile recipes (tied for #4 human contributor)
 - **[Evaliphy](https://github.com/Evaliphy/evaliphy)** - JsonAccumulator unused attach() removal (tied for #3 human contributor)
-- **[sql-guard](https://github.com/Pawansingh3889/sql-guard)** - W012 group-by-ordinal rule, W016 not-in-with-subquery rule, W019 count-distinct-unbounded rule, Add W023 scalar-udf-in-where (#2 human contributor)
+- **[sql-guard](https://github.com/Pawansingh3889/sql-guard)** - W012 group-by-ordinal rule, W016 not-in-with-subquery rule, W019 count-distinct-unbounded rule, Add W023 scalar-udf-in-where, W015 join-function-on-column rule (#2 human contributor)
 - **[rspack](https://github.com/web-infra-dev/rspack)** [![GitHub stars](https://img.shields.io/github/stars/web-infra-dev/rspack?style=flat&color=gold)](https://github.com/web-infra-dev/rspack) - --open and --no-open flags for rspack dev and serve
 - **[BasedHardware omi](https://github.com/BasedHardware/omi)** [![GitHub stars](https://img.shields.io/github/stars/BasedHardware/omi?style=flat&color=gold)](https://github.com/BasedHardware/omi) - mcuboot.conf restoration for firmware builds, getAuthHeader null-guard in app, Use user's name in conversation title instead of "user"
 - **[gogcli](https://github.com/steipete/gogcli)** [![GitHub stars](https://img.shields.io/github/stars/steipete/gogcli?style=flat&color=gold)](https://github.com/steipete/gogcli) - config.json entry cleanup on auth remove
@@ -243,7 +243,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Mozilla neqo](https://github.com/mozilla/neqo)** [![GitHub stars](https://img.shields.io/github/stars/mozilla/neqo?style=flat&color=gold)](https://github.com/mozilla/neqo) - contains_handshake and assert_contains_handshake helpers
 - **[Chunky](https://github.com/chunky-dev/chunky)** [![GitHub stars](https://img.shields.io/github/stars/chunky-dev/chunky?style=flat&color=gold)](https://github.com/chunky-dev/chunky) - Warning surface for unsupported blocks after chunk loading
 - **[Matcha](https://github.com/floatpane/matcha)** [![GitHub stars](https://img.shields.io/github/stars/floatpane/matcha?style=flat&color=gold)](https://github.com/floatpane/matcha) - fetcher surfaces ignored io.ReadAll errors, shared HTTP timeout extraction, folder_cache config tests, Ctrl+V password visibility toggle in TUI login, PGPKeySource field validation on config load, Trim <> from email keys, Server-side email search, Check writes in iMIP body (#4 human contributor)
-- **[eval-view](https://github.com/hidai25/eval-view)** - --json flag for evalview snapshot, validate command for linting test files, Support TOML test cases alongside YAML (tied for #5 human contributor)
+- **[eval-view](https://github.com/hidai25/eval-view)** - --json flag for evalview snapshot, validate command for linting test files, Support TOML test cases alongside YAML, CSV import for generate --from-log (tied for #5 human contributor)
 - **[Homebrew brew-vulns](https://github.com/Homebrew/homebrew-brew-vulns)** - User-Agent header on OSV API requests (tied for #9 human contributor)
 - **[limenex](https://github.com/limenex-hq/limenex)** - python -m limenex validate CLI for policies.yaml (#2 human contributor)
 - **[opencode](https://github.com/anomalyco/opencode)** [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=flat&color=gold)](https://github.com/anomalyco/opencode) - add Ctrl+R reverse search for prompt history, show prompt when viewing subagent sessions
@@ -289,7 +289,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[KubeStellar Console](https://github.com/kubestellar/console)** - drain Statuspage response body after JSON decode
 - **[OWASP cve-lite-cli](https://github.com/OWASP/cve-lite-cli)** - add format-specific lockfile parser limitations, add trust-and-support links to docs site, Add Download JSON button (tied for #3 human contributor)
 - **[EVUI](https://github.com/ex-em/EVUI)** - apply willReadFrequently option to canvas context
-- **[string-morpher](https://github.com/SSolWEB/string-morpher)** - add hideEmail transformer for PII masking (#2 human contributor)
+- **[string-morpher](https://github.com/SSolWEB/string-morpher)** - add hideEmail transformer for PII masking, EscapeHtml transformer for safe HTML output (#2 human contributor)
 - **[WP Accessibility Docs](https://github.com/wpaccessibility/wp-a11y-docs)** - make dummy links self-referencing to preserve viewport position
 - **[oracletrace](https://github.com/KaykCaputo/oracletrace)** - send error messages to stderr instead of stdout (#9 human contributor)
 - **[astradial](https://github.com/astradial/astradial)** - Add .github/CODEOWNERS to auto-request reviews (tied for #2 human contributor)
@@ -314,7 +314,7 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[screed](https://github.com/dib-lab/screed)** - 'retriving' typo correction in RELEASE-0.5 release notes
 - **[Fabric Smart Client](https://github.com/hyperledger-labs/fabric-smart-client)** - Read lock on lazyProvider.Length
 - **[zfs-replicate](https://github.com/alunduil/zfs-replicate)** - Conventional Commits dialect guidance for contributors and agents (#2 human contributor)
-- **[guild](https://github.com/mathomhaus/guild)** - Repo-root lookup caching in defaultGitFileLastModified (#2 human contributor)
+- **[guild](https://github.com/mathomhaus/guild)** - Repo-root lookup caching in defaultGitFileLastModified, campaign/epic taxonomy on the quest board, hermetic install tests, principle-too-long rule removal (#2 human contributor)
 - **[beman-tidy](https://github.com/bemanproject/beman-tidy)** - --version flag for the CLI
 - **[tailwindfx](https://github.com/yasmramos/tailwindfx)** - Cursor utilities to match TailwindCSS v4 (tied for #3 human contributor)
 - **[unisat](https://github.com/root3315/unisat)** - Configurator test migration to canonical keys, CommunicationManager test skip when pyserial absent, Regression guard for mission templates, Unit tests for analyze_cansat_radiation.py, Add index page and pack template (#2 human contributor)
@@ -401,6 +401,15 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[dotNix](https://github.com/devnchill/dotNix)** - mini.statusline configuration with file/git/LSP/diagnostics info (#2 human contributor)
 - **[Scherlok](https://github.com/rbmuller/scherlok)** - Example connection strings when 'scherlok connect' has no args (#2 human contributor)
 - **[Docstring Auto-Filler](https://github.com/jishanahmed-shaikh/docstring-auto-filler)** - --check mode for CI documentation standards enforcement (#2 human contributor)
+- **[TUnit](https://github.com/thomhurst/TUnit)** [![GitHub stars](https://img.shields.io/github/stars/thomhurst/TUnit?style=flat&color=gold)](https://github.com/thomhurst/TUnit) - XML doc warning suppression in generated sources
+- **[OpenStreetMap](https://github.com/openstreetmap/openstreetmap-website)** [![GitHub stars](https://img.shields.io/github/stars/openstreetmap/openstreetmap-website?style=flat&color=gold)](https://github.com/openstreetmap/openstreetmap-website) - Social link platform and name caching at save time
+- **[GUAC](https://github.com/guacsec/guac)** [![GitHub stars](https://img.shields.io/github/stars/guacsec/guac?style=flat&color=gold)](https://github.com/guacsec/guac) - Release checklist issue template
+- **[Zerocode](https://github.com/authorjapps/zerocode)** [![GitHub stars](https://img.shields.io/github/stars/authorjapps/zerocode?style=flat&color=gold)](https://github.com/authorjapps/zerocode) - JSON Schema for ScenarioSpec, robots.txt pointer, and example templates
+- **[uWestJS](https://github.com/FOSSFORGE/uWestJS)** - Multipart request header precedence preservation (tied for #4 human contributor)
+- **[phantom-secrets](https://github.com/ashlrai/phantom-secrets)** - --json flag for phantom list (tied for #3 human contributor)
+- **[stackchan-mcp](https://github.com/kisaragi-mochi/stackchan-mcp)** - PEP 639 license string migration in pyproject.toml (tied for #2 human contributor)
+- **[gem-contribute](https://github.com/cdhagmann/gem-contribute)** - GitHub rate-limit footer after scan and issues (#2 human contributor)
+- **[fun-sheet-music](https://github.com/mvndaai/fun-sheet-music)** - Humpty Dumpty sample song (#2 human contributor)
 
 #### OpenClaw Skills
 
@@ -418,4 +427,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-05-01*
+*Last updated: 2026-05-02*
