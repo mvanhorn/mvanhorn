@@ -30,7 +30,6 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Dify](https://github.com/langgenius/dify)** [![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat&color=gold)](https://github.com/langgenius/dify) - Shiki syntax highlighting migration
 - **[Open WebUI](https://github.com/open-webui/open-webui)** [![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat&color=gold)](https://github.com/open-webui/open-webui) - add missing has_public_read_access_grant import in notes.py, handle ollama embedding errors for bge-m3 and similar models
 - **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat&color=gold)](https://github.com/langchain-ai/langchain) - PIL image fd leak in OpenAI token counting
-- **[Rust](https://github.com/rust-lang/rust)** [![GitHub stars](https://img.shields.io/github/stars/rust-lang/rust?style=flat&color=gold)](https://github.com/rust-lang/rust) - Suppress closure suggestion for E0434 inside trait impl methods, Make E0434 help message context-aware
 - **[Google's Gemini CLI](https://github.com/google-gemini/gemini-cli)** [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat&color=gold)](https://github.com/google-gemini/gemini-cli) - Custom seatbelt profile resolution from $HOME/.gemini, 501 return-after fix in /tasks/metadata, graceful credential-missing handling in deleteCredentials, stableStringify unit tests, tool_call session-update before request_permission, theme-preview revert on theme-dialog quit
 - **[GitHub Spec Kit](https://github.com/github/spec-kit)** [![GitHub stars](https://img.shields.io/github/stars/github/spec-kit?style=flat&color=gold)](https://github.com/github/spec-kit) - PowerShell positional parameter binding, specify/plan hook lifecycle wiring, speckit-utils community catalog
 - **[Agency Agents](https://github.com/msitarzewski/agency-agents)** [![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat&color=gold)](https://github.com/msitarzewski/agency-agents) - Agent name normalization, Rename 'Data Analytics Reporter' to 'Analytics Reporter' in strategy docs
@@ -519,4 +518,4 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by Weber)
 - **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
 - **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
-*Last updated: 2026-05-17*
+*Last updated: 2026-05-18*
