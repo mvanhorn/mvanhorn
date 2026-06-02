@@ -2,7 +2,7 @@
 
 [![X @mvanhorn](https://img.shields.io/badge/X-@mvanhorn-000?style=flat&logo=x)](https://x.com/mvanhorn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-mattvanhorn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mattvanhorn)
 
-Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by [Weber](https://github.com/webergrills)) and the company that became [Lyft](https://lyft.com). Building again, more soon. OS: [last30days](https://github.com/mvanhorn/last30days-skill) 25k★ [Printing Press](https://github.com/mvanhorn/cli-printing-press) 3.5k★
+Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by [Weber](https://github.com/webergrills)) and the company that became [Lyft](https://lyft.com). Building again, more soon. Open source: [last30days](https://github.com/mvanhorn/last30days-skill) 27k★ [Printing Press](https://github.com/mvanhorn/cli-printing-press) 4.2k★
 
 #### Building
 
