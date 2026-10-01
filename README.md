@@ -1067,18 +1067,18 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by [Weber
 
 #### OpenClaw Skills
 
-- **[Search X](https://github.com/mvanhorn/clawdbot-skill-search-x)** - Real-time X/Twitter search powered by Grok
-- **[Polymarket](https://github.com/mvanhorn/clawdbot-skill-polymarket)** - Query and trade on prediction markets
-- **[Parallel](https://github.com/mvanhorn/clawdbot-skill-parallel)** - High-accuracy web search via Parallel.ai
-- **[Manus](https://github.com/mvanhorn/clawdbot-skill-manus)** - Create autonomous AI tasks via Manus API
-- **[Tesla](https://github.com/mvanhorn/clawdbot-skill-tesla)** - Control your Tesla vehicles
-- **[xAI](https://github.com/mvanhorn/clawdbot-skill-xai)** - Chat with Grok models via xAI API
+- **[Search X](https://github.com/mvanhorn/clawdbot-skill-search-x)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/clawdbot-skill-search-x?style=flat&color=gold)](https://github.com/mvanhorn/clawdbot-skill-search-x) - Real-time X/Twitter search powered by Grok
+- **[Polymarket](https://github.com/mvanhorn/clawdbot-skill-polymarket)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/clawdbot-skill-polymarket?style=flat&color=gold)](https://github.com/mvanhorn/clawdbot-skill-polymarket) - Query and trade on prediction markets
+- **[Parallel](https://github.com/mvanhorn/clawdbot-skill-parallel)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/clawdbot-skill-parallel?style=flat&color=gold)](https://github.com/mvanhorn/clawdbot-skill-parallel) - High-accuracy web search via Parallel.ai
+- **[Manus](https://github.com/mvanhorn/clawdbot-skill-manus)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/clawdbot-skill-manus?style=flat&color=gold)](https://github.com/mvanhorn/clawdbot-skill-manus) - Create autonomous AI tasks via Manus API
+- **[Tesla](https://github.com/mvanhorn/clawdbot-skill-tesla)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/clawdbot-skill-tesla?style=flat&color=gold)](https://github.com/mvanhorn/clawdbot-skill-tesla) - Control your Tesla vehicles
+- **[xAI](https://github.com/mvanhorn/clawdbot-skill-xai)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/clawdbot-skill-xai?style=flat&color=gold)](https://github.com/mvanhorn/clawdbot-skill-xai) - Chat with Grok models via xAI API
 
 #### Paperclip Plugins
 
-- **[Discord](https://github.com/mvanhorn/paperclip-plugin-discord)** - Bidirectional Discord integration: notifications, slash commands, and community intelligence
-- **[Slack](https://github.com/mvanhorn/paperclip-plugin-slack)** - Slack notifications for issue creation, completion, and approval workflows
-- **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
-- **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
+- **[Discord](https://github.com/mvanhorn/paperclip-plugin-discord)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/paperclip-plugin-discord?style=flat&color=gold)](https://github.com/mvanhorn/paperclip-plugin-discord) - Bidirectional Discord integration: notifications, slash commands, and community intelligence
+- **[Slack](https://github.com/mvanhorn/paperclip-plugin-slack)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/paperclip-plugin-slack?style=flat&color=gold)](https://github.com/mvanhorn/paperclip-plugin-slack) - Slack notifications for issue creation, completion, and approval workflows
+- **[Telegram](https://github.com/mvanhorn/paperclip-plugin-telegram)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/paperclip-plugin-telegram?style=flat&color=gold)](https://github.com/mvanhorn/paperclip-plugin-telegram) - Bidirectional Telegram bot: push notifications, bot commands, inline approve/reject buttons
+- **[ACP Runtime](https://github.com/mvanhorn/paperclip-plugin-acp)** [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/paperclip-plugin-acp?style=flat&color=gold)](https://github.com/mvanhorn/paperclip-plugin-acp) - Run Claude Code, Codex, and Gemini CLI from any chat platform via Agent Client Protocol
 
 *Last updated: 2026-09-30*
