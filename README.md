@@ -657,7 +657,6 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by [Weber
 - **[kftray](https://github.com/hcavarsan/kftray)** [![GitHub stars](https://img.shields.io/github/stars/hcavarsan/kftray?style=flat&color=gold)](https://github.com/hcavarsan/kftray) - honor CARGO_TARGET_DIR when locating the Tauri helper (#9 human contributor)
 - **[iocraft](https://github.com/ccbrown/iocraft)** [![GitHub stars](https://img.shields.io/github/stars/ccbrown/iocraft?style=flat&color=gold)](https://github.com/ccbrown/iocraft) - Home/End and Ctrl+A/E key bindings for TextInput (tied for #8 human contributor)
 - **[GUAC](https://github.com/guacsec/guac)** [![GitHub stars](https://img.shields.io/github/stars/guacsec/guac?style=flat&color=gold)](https://github.com/guacsec/guac) - Release checklist issue template
-- **[Echo-Music](https://github.com/EchoMusicApp/Echo-Music)** [![GitHub stars](https://img.shields.io/github/stars/EchoMusicApp/Echo-Music?style=flat&color=gold)](https://github.com/EchoMusicApp/Echo-Music) - penalize karaoke/instrumental variants in Saavn match scoring
 - **[thumb-key](https://github.com/dessalines/thumb-key)** [![GitHub stars](https://img.shields.io/github/stars/dessalines/thumb-key?style=flat&color=gold)](https://github.com/dessalines/thumb-key) - Override the caps-lock legend from key modifications, Spell keyboard layout identifiers ThumbKey
 - **[hermex](https://github.com/uzairansaruzi/hermex)** [![GitHub stars](https://img.shields.io/github/stars/uzairansaruzi/hermex?style=flat&color=gold)](https://github.com/uzairansaruzi/hermex) - preserve waiting status in stale Bot Live Activities
 - **[pgqueuer](https://github.com/janbjorge/pgqueuer)** [![GitHub stars](https://img.shields.io/github/stars/janbjorge/pgqueuer?style=flat&color=gold)](https://github.com/janbjorge/pgqueuer) - preserve the instant in statistics created defaults
@@ -953,7 +952,6 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by [Weber
 - **[Mdex](https://github.com/leandrocp/mdex)** [![GitHub stars](https://img.shields.io/github/stars/leandrocp/mdex?style=flat&color=gold)](https://github.com/leandrocp/mdex) - add Slack mrkdwn converter (to_slack/2) (#6 human contributor)
 - **[fud-ai](https://github.com/apoorvdarshan/fud-ai)** [![GitHub stars](https://img.shields.io/github/stars/apoorvdarshan/fud-ai?style=flat&color=gold)](https://github.com/apoorvdarshan/fud-ai) - add voice input to the Fud AI Coach, Show a clear invalid-API-key message for the AI coach on HTTP 400 (#6 human contributor)
 - **[Open5e](https://github.com/open5e/open5e)** [![GitHub stars](https://img.shields.io/github/stars/open5e/open5e?style=flat&color=gold)](https://github.com/open5e/open5e) - snakeToTitleCase helper extraction
-- **[midaz](https://github.com/LerianStudio/midaz)** [![GitHub stars](https://img.shields.io/github/stars/LerianStudio/midaz?style=flat&color=gold)](https://github.com/LerianStudio/midaz) - validate holder type on creation
 - **[radiola](https://github.com/SokoloffA/radiola)** [![GitHub stars](https://img.shields.io/github/stars/SokoloffA/radiola?style=flat&color=gold)](https://github.com/SokoloffA/radiola) - Add favorite star toggle to internet station search rows (#7 human contributor)
 - **[wrtag](https://github.com/sentriz/wrtag)** [![GitHub stars](https://img.shields.io/github/stars/sentriz/wrtag?style=flat&color=gold)](https://github.com/sentriz/wrtag) - fall through to next source on non-fatal error (#7 human contributor)
 - **[fast-jwt](https://github.com/nearform/fast-jwt)** [![GitHub stars](https://img.shields.io/github/stars/nearform/fast-jwt?style=flat&color=gold)](https://github.com/nearform/fast-jwt) - Strict base64url validation on verify
@@ -1180,7 +1178,6 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by [Weber
 - **[Infinispan Console](https://github.com/infinispan/infinispan-console)** - Refresh button on Cache Container page
 - **[Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues)** - Last words detection patterns, scoring edge case tests, Add Chrome MV3 tombstone badge for GitHub repo pages, Add 5 more famous casualties (#2 human contributor)
 - **[EVUI](https://github.com/ex-em/EVUI)** - apply willReadFrequently option to canvas context
-- **[marionette](https://github.com/marionettejs/marionette)** - use _rdInternal guard key consistently (#3 human contributor)
 - **[Autoware GitHub Actions](https://github.com/autowarefoundation/autoware-github-actions)** - clang-tidy ignore patterns applied with target-files
 - **[testflinger](https://github.com/canonical/testflinger)** - Drop trailing blank line from `jobs` output
 - **[Library Carpentry Wikidata](https://github.com/LibraryCarpentry/lc-wikidata)** - FIXME placeholder title replacement on reference page
@@ -1265,13 +1262,11 @@ Co-founded [June](https://juneoven.com) ("self-driving oven," acquired by [Weber
 - **[gem-contribute](https://github.com/cdhagmann/gem-contribute)** - GitHub rate-limit footer after scan and issues, Archive workshop-era docs to docs/archive/, Add @mvanhorn to KICKED_THE_TIRES, add `gem-contribute open <gem>` (#2 human contributor)
 - **[mcp-claude-bridge](https://github.com/LennardGeissler/mcp-claude-bridge)** - MCP request payloads for smoke testing (#4 human contributor)
 - **[VueSIP](https://github.com/ironyh/VueSIP)** - link root CONTRIBUTING.md from starter READMEs (#3 human contributor)
-- **[Openpets](https://github.com/alvinunreal/openpets)** [![GitHub stars](https://img.shields.io/github/stars/alvinunreal/openpets?style=flat&color=gold)](https://github.com/alvinunreal/openpets) - show default pet when external pet.say arrives with no window open, add openpets doctor command (#2 human contributor)
-- **[InnerWarden](https://github.com/InnerWarden/innerwarden)** [![GitHub stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=flat&color=gold)](https://github.com/InnerWarden/innerwarden) - Unit test coverage for decision_honeypot dispatch in agent (#4 human contributor)
+- **[Openpets](https://github.com/OpenPetsHQ/openpets)** [![GitHub stars](https://img.shields.io/github/stars/OpenPetsHQ/openpets?style=flat&color=gold)](https://github.com/OpenPetsHQ/openpets) - show default pet when external pet.say arrives with no window open, add openpets doctor command (#2 human contributor)
 - **[2snipe-manager](https://github.com/jackvaughanjr/2snipe-manager)** - add shell completion and integration-name dynamic completion (#2 human contributor)
 - **[CForge](https://github.com/Sandesh282/CForge)** - Verdict.faled to Verdict.failed rename, SearchBar placeholder parameter usage, Replace hardcoded participant count with contest type (#3 human contributor)
 - **[Docstring Auto-Filler](https://github.com/jishanahmed-shaikh/docstring-auto-filler)** - --check mode for CI documentation standards enforcement (#3 human contributor)
 - **[esustellar](https://github.com/BlockHaven-Labs/esustellar)** - load browse page from registry contract, Centralize locale-aware date and number formatting
-- **[cairn-rs](https://github.com/avifenesh/cairn-rs)** - Collapse errorMessage instanceof branches per #191 review (#3 human contributor)
 - **[LMPTools.jl](https://github.com/fgasdia/LMPTools.jl)** - use s3 instead of duplicated s2 (#2 human contributor)
 - **[control-tower](https://github.com/mmaser/control-tower)** - report in-progress operations, stashes, and detached commits in the Git inventory (#2 human contributor)
 
